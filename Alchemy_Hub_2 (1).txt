@@ -1,7 +1,7 @@
 repeat wait(1) until game:IsLoaded()
 local AlchemyNotify = function(Text_i,Duration_i)
     game.StarterGui:SetCore("SendNotification", {
-        Title = "Alchemy Hub V2",
+        Title = "Nattapon Hub V2",
         Text = Text_i,
         Duration = Duration_i,
         Icon = "rbxassetid://14981376704"
@@ -9,7 +9,7 @@ local AlchemyNotify = function(Text_i,Duration_i)
 end
 --Key
 wait(0.1)
-AlchemyNotify("Thanks for using Alchemy Hub!",5)
+AlchemyNotify("Thanks for using Nattapon Hub!",5)
 wait(0.1)
 AlchemyNotify("discord.gg/dUdzZskBCC",5)
 wait(0.5)
