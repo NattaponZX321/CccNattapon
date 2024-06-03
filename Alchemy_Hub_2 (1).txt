@@ -39,7 +39,7 @@ local Raid = a:Tab("Raid", "rbxassetid://15712763124")
 local Shop = a:Tab("Shop", "rbxassetid://15712767144")
 local Misc = a:Tab("Misc", "rbxassetid://15712771666")
 
-HomePage:Seperator("Alchemy Hub")
+HomePage:Seperator("Nattapon Hub")
 
 HomePage:Label("Blox Fruits | English Version")
 
@@ -67,7 +67,7 @@ end)
 HomePage:Label("Join Our Discord for News")
 HomePage:Button("Copy Discord Link", function()
     AlchemyNotify("Copy Discord Link!",5)
-    setclipboard("https://discord.gg/dUdzZskBCC")
+    setclipboard("https://discord.com/invite/Gw52xghPDf")
 end)
 -----------------------------------------------------------------------------------------------------------------------------Function
 assert(getrawmetatable)
