@@ -25,7 +25,7 @@ until game.Players.LocalPlayer
 local ui_link = "https://raw.githubusercontent.com/ZoiIntra/Dec/main/afsZz.lua"
 local a = loadstring(game:HttpGet(ui_link))()
 local a = a:Window("Free Version | Blox Fruit")
-local HomePage = a:Tab("Home", "rbxassetid://16062922985")
+local HomePage = a:Tab("Home", "rbxassetid://17719617126")
 local Main = a:Tab("Main", "rbxassetid://15712703260")
 local Set = a:Tab("Setting", "rbxassetid://15712711639")
 local Farm = a:Tab("Other Farm", "rbxassetid://15712717270")
