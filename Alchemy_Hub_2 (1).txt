@@ -4,7 +4,7 @@ local AlchemyNotify = function(Text_i,Duration_i)
         Title = "Nattapon Hub V2",
         Text = Text_i,
         Duration = Duration_i,
-        Icon = "rbxassetid://14981376704"
+        Icon = "rbxassetid://17719617126"
     })
 end
 --Key
